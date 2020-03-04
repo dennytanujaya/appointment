@@ -181,7 +181,7 @@
 						<img src="http://placehold.it/100x50/A9A9A9/fff&text=<?php echo $result['time']//$startTime->format('H:i');?>">
 					</label>
 					<?php } else { ?>
-					<input type="text" name="jadwalId" value="<?php echo $result['jadwalId']; ?>">
+					<input type="hidden" name="jadwalId" value="<?php echo $result['jadwalId']; ?>">
 					<input type="hidden" name="userId" value="<?php echo $result['userId']; ?>">
 					<input type="hidden" name="day" value="<?php echo $date; ?>">
 					<label>
