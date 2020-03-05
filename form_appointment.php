@@ -92,7 +92,7 @@
 		<br /><br /><br />
 		<label><b><input type="checkbox" id="checkbox1" name="checkbox1" value="agree" /> By checking the checkbox, I hereby agree and express my voluntarily, unequivocal and informed consent that my personal data which I provided to Panorama Destination shall be processed for the purposes of making meeting appointment.</b></label>
 		<!-- CAPTCHA -->
-		<div class="g-recaptcha" data-sitekey="6Lf979UUAAAAABFrk5lJ7cM8_SmdlIbYj0O6GHtG"></div>
+		<div class="g-recaptcha" data-sitekey="API_KEY"></div>
 		<!-- END OF CAPTCHA -->
 		<input type="submit" name="submit" value="submit" />
 	</form>
