@@ -65,11 +65,11 @@
 		<label for="country">With whom do you want to make appointment</label>
 		<select id="country" name="country">
 			<option value="">Please choose</option>
-			<option value="PDES Group">Renato Domini&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Panorama Destination Group</option>
-			<option value="PDES Indonesia">Renato Domini&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Panorama Destination Indonesia</option>
-			<option value="PDES Malaysia">Noor Ismail Muhammad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Panorama Destination Malaysia</option>
-			<option value="PDES Thailand">Nicola Scaramuzzino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Panorama Destination Thailand</option>
-			<option value="PDES Vietnam">Tuong Trang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Panorama Destination Vietnam</option>
+			<option value="contoh nama pertama">nama pertama</option>
+			<option value="contoh nama kedua">nama kedua</option>
+			<option value="contoh nama ketiga">nama ketiga</option>
+			<option value="contoh nama keempat">nama keempat</option>
+			<option value="contoh nama kelima">nama kelima</option>
 		</select>
 		<input type="hidden" name="eventname" value="<?php echo $eventName;?>"/>
 		<input type="hidden" name="eventId" value="<?php echo $eventID;?>"/>
